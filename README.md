@@ -19,6 +19,6 @@ where `<browserpath>` is the path to your browser binary, e. g. `/usr/bin/google
 
 Linus clearly challenged me personally to create a bot for [lttstore.com](https://lttstore.com).
 
-![GIF](https://i.imgur.com/Gc8CDmH.gif)
+<img src="https://i.imgur.com/Gc8CDmH.gif">
 
 PS. I'm sorry
