@@ -1,0 +1,5 @@
+bs4==0.0.1
+lxml==4.6.1
+loguru==0.5.3
+click==7.1.2
+requests==2.24.0
