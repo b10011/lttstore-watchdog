@@ -14,3 +14,11 @@ python3 main.py --browser <browserpath> --existing-products urls.txt --interval 
 ```
 
 where `<browserpath>` is the path to your browser binary, e. g. `/usr/bin/google-chrome-stable`
+
+## Background of this project
+
+Linus clearly challenged me personally to create a bot for [lttstore.com](https://lttstore.com).
+
+![GIF](https://i.imgur.com/Gc8CDmH.gif)
+
+PS. I'm sorry
